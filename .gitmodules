@@ -1,0 +1,3 @@
+[submodule "AndroidApp"]
+	path = AndroidApp
+	url = https://github.com/nathan91680/movingmoverrepo.git
